@@ -41,8 +41,8 @@ Bu proje **201,676 veri noktası** içeren NASDAQ-100 15 dakikalık geçmiş fiy
 
 ## 📈 Sonuç Özeti | Results Summary
 
-| Model | R² Skoru | MSE | Performans | Performance |
-|-------|----------|-----|------------|-------------|
+| Model | R² Skoru | MSE | Performans | 
+|-------|----------|-----|------------|
 | **Doğrusal Regresyon \| Linear Regression** | **0.9999** | 54.59 | ⭐ En İyi \| Best |
 | **Rastgele Orman \| Random Forest** | 0.9999 | 78.82 | ⭐ Mükemmel \| Excellent |
 | **Karar Ağacı \| Decision Tree** | 0.9999 | 154.90 | ⭐ Mükemmel \| Excellent |
@@ -103,15 +103,8 @@ Proje kapsamlı görselleştirmeler içeriyor | *The project includes comprehens
 - [ ] **Sağlam model değerlendirmesi için çapraz doğrulama** | ***Cross-validation** for robust model evaluation*
 - [ ] **Özellik seçimi teknikleri** | ***Feature selection** techniques*
 - [ ] **En iyi modelleri birleştiren topluluk yöntemleri** | ***Ensemble methods** combining best models*
-- [ ] **Dış etkenler** (haber duyarlılığı, ekonomik göstergeler) | ***External factors** (news sentiment, economic indicators)*
 - [ ] **Gerçek zamanlı tahmin** pipeline'ı | ***Real-time prediction** pipeline*
 - [ ] **Risk yönetimi** metrikleri | ***Risk management** metrics*
-
-## 📝 Lisans | License
-
-Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakınız.
-
-*This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.*
 
 ## 🤝 Katkıda Bulunma | Contributing
 
@@ -121,10 +114,9 @@ Katkılar memnuniyetle karşılanır! Lütfen Pull Request göndermekten çekinm
 
 ## 📧 İletişim | Contact
 
-- **LinkedIn:** [LinkedIn Profiliniz | Your LinkedIn Profile]
-- **GitHub:** [GitHub Profiliniz | Your GitHub Profile]  
-- **Email:** [Email Adresiniz | Your Email]
-
+- **LinkedIn:** [linkedin.com/in/ilhanseyhan](https://www.linkedin.com/in/ilhanseyhan/)
+- **GitHub:** [github.com/ilhanseyhanx](https://github.com/ilhanseyhanx)
+- **Email:** [ilhanseyhan5@gmail.com](mailto:ilhanseyhan5@gmail.com)
 
 ---
 
